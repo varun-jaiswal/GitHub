@@ -8,4 +8,5 @@ git confi -- user.name "varunjaiswal2008@gmal.com" this will congiure user email
 git init to configure new project to git 
 git add . is used to track all the files
 git status to check the status in the git project 
-git commit -am "message" this will commit the code 
+git commit -am "message" this will commit the code  
+
